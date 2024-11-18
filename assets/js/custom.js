@@ -25,5 +25,6 @@ function uBlockActive() {
   if (window.adsbygoogle.push.length > 0) {
     return false
   }
-  adBlockFunction();
+  //to remove adblock im adding this comment
+  //adBlockFunction();
 }
